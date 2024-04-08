@@ -9,7 +9,7 @@ Minimal Button React Component.
     npm i @j4jinxx/button
 
 ## Import
-    import AiBtn from '@j4jinxx/button';
+    import Button from '@j4jinxx/button';
 
 
 ## Props
